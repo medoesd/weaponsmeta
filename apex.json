@@ -1,0 +1,204 @@
+{
+  "game": "Apex Legends",
+  "meta": {
+    "name": "APEX LEGENDS META",
+    "weapons": [
+      {
+        "id": "VK-47",
+        "name": "Flatline",
+        "rank": 2,
+        "type": "Assault Rifle"
+      },
+      {
+        "id": "Nemesis",
+        "name": "Nemesis",
+        "rank": 5,
+        "type": "Assault Rifle"
+      },
+      {
+        "id": "Volt_SMG",
+        "name": "Volt",
+        "rank": 1,
+        "type": "SMG"
+      },
+      {
+        "id": "G7_Scout",
+        "name": "G-7 Scout",
+        "rank": 3,
+        "type": "Marksman Rifle"
+      },
+      {
+        "id": "Kraber",
+        "name": "Kraber",
+        "rank": 4,
+        "type": "Sniper Rifle"
+      },
+      {
+        "id": "Bocek_Compound_Bow",
+        "name": "Bocek",
+        "rank": 6,
+        "type": "Bow"
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "name": "A Tier",
+      "weapons": [
+        {
+          "id": "R-99_SMG",
+          "name": "R-99",
+          "rank": 1,
+          "type": "SMG"
+        },
+        {
+          "id": "Rampage_LMG",
+          "name": "Rampage",
+          "rank": 2,
+          "type": "LMG"
+        },
+        {
+          "id": "Peacekeeper",
+          "name": "Peacekeeper",
+          "rank": 3,
+          "type": "Shotgun"
+        },
+        {
+          "id": "Prowler_Burst_PDW",
+          "name": "Prowler",
+          "rank": 4,
+          "type": "SMG"
+        },
+        {
+          "id": "30-30_Repeater",
+          "name": "30-30 Repeater",
+          "rank": 5,
+          "type": "Marksman Rifle"
+        },
+        {
+          "id": "Mastiff_Shotgun",
+          "name": "Mastiff",
+          "rank": 6,
+          "type": "Shotgun"
+        },
+        {
+          "id": "C.A.R._SMG",
+          "name": "CAR",
+          "rank": 7,
+          "type": "SMG"
+        },
+        {
+          "id": "m600-spitfire",
+          "name": "M600 Spitfire",
+          "rank": 8,
+          "type": "LMG"
+        },
+        {
+          "id": "Wingman",
+          "name": "Wingman",
+          "rank": 9,
+          "type": "Pistol"
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "weapons": [
+        {
+          "id": "Charge_Rifle",
+          "name": "Charge Rifle",
+          "rank": 1,
+          "type": "Sniper Rifle"
+        },
+        {
+          "id": "HAVOC_Rifle",
+          "name": "Havoc",
+          "rank": 2,
+          "type": "Assault Rifle"
+        },
+        {
+          "id": "EVA-8_Auto",
+          "name": "EVA-8",
+          "rank": 3,
+          "type": "Shotgun"
+        },
+        {
+          "id": "R-301_Carbine",
+          "name": "R-301",
+          "rank": 4,
+          "type": "Assault Rifle"
+        },
+        {
+          "id": "P2020",
+          "name": "P2020",
+          "rank": 5,
+          "type": "Pistol"
+        },
+        {
+          "id": "Devotion_LMG",
+          "name": "Devotion",
+          "rank": 6,
+          "type": "LMG"
+        },
+        {
+          "id": "L-STAR_EMG",
+          "name": "L-Star",
+          "rank": 7,
+          "type": "LMG"
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "weapons": [
+        {
+          "id": "Mozambique_Shotgun",
+          "name": "Mozambique",
+          "rank": 1,
+          "type": "Shotgun"
+        },
+        {
+          "id": "Triple_Take",
+          "name": "Triple Take",
+          "rank": 2,
+          "type": "Marksman Rifle"
+        },
+        {
+          "id": "Sentinel",
+          "name": "Sentinel",
+          "rank": 3,
+          "type": "Sniper Rifle"
+        },
+        {
+          "id": "Longbow_DMR",
+          "name": "Longbow",
+          "rank": 4,
+          "type": "Sniper Rifle"
+        },
+        {
+          "id": "Hemlok_Burst_AR",
+          "name": "Hemlok",
+          "rank": 5,
+          "type": "Assault Rifle"
+        },
+        {
+          "id": "RE-45",
+          "name": "RE-45 Burst",
+          "rank": 6,
+          "type": "Pistol"
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "weapons": [
+        {
+          "id": "Alternator_SMG",
+          "name": "Alternator",
+          "rank": 1,
+          "type": "SMG"
+        }
+      ]
+    }
+  ]
+}

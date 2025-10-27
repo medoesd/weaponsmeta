@@ -1,0 +1,1778 @@
+{
+  "game": "Call of Duty: Warzone",
+  "tiers": [
+    {
+      "name": "META",
+      "weapons": [
+        {
+          "id": "kilo-141",
+          "name": "Kilo 141",
+          "rank": 1,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "REINFORCED BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "dresden-9mm",
+          "name": "Dresden 9mm",
+          "rank": 1,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Rear Grip" },
+            { "name": "NO STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "merrick-556",
+          "name": "Merrick 556",
+          "rank": 2,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "REINFORCED BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "C9",
+          "name": "C9",
+          "rank": 2,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "RANGER FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Rear Grip" }
+          ]
+        },
+        {
+          "id": "gpr-91",
+          "name": "GPR 91",
+          "rank": 3,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "jackal-pdw",
+          "name": "JACKAL PDW",
+          "rank": 3,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "G-GRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "swat-556",
+          "name": "SWAT 5.56",
+          "rank": 4,
+          "type": "Marksman",
+          "attachments": [
+            { "name": "R&K MULTIZOOM", "type": "Optic" },
+            { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "FULL-AUTO EXTENDED MAG", "type": "Magazine" },
+            { "name": "SWAT 5.56 GRAU CONVERSION", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "HDR",
+          "name": "HDR",
+          "rank": 1,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "LIGHTWEIGHT BIPOD", "type": "Underbarrel" },
+            { "name": "QUICKDRAW GRIP", "type": "Rear Grip" },
+            { "name": "108MM OVERPRESSURED", "type": "Fire Mods" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "weapons": [
+        {
+          "id": "cr-56-amax",
+          "name": "CR-56 AMAX",
+          "rank": 5,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VOLZHSKIY REFLEX", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "ladra",
+          "name": "LADRA",
+          "rank": 5,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" }
+          ]
+        },
+        {
+          "id": "ames-85",
+          "name": "AMES 85",
+          "rank": 6,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "JASON ARMORY 2X", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "ppsh-41",
+          "name": "PPSh-41",
+          "rank": 6,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "AGILITY STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "xm4",
+          "name": "XM4",
+          "rank": 7,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "BUFFER WEIGHT STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "ksv",
+          "name": "KSV",
+          "rank": 7,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" }
+          ]
+        },
+        {
+          "id": "saug",
+          "name": "SAUG",
+          "rank": 8,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" }
+          ]
+        },
+        {
+          "id": "abr-a1",
+          "name": "ABR A1",
+          "rank": 8,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "kompakt-92",
+          "name": "KOMPAKT 92",
+          "rank": 9,
+          "type": "SMG",
+          "attachments": [
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG III", "type": "Magazine" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "cypher-091",
+          "name": "Cypher 091",
+          "rank": 9,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "lc10",
+          "name": "LC10",
+          "rank": 10,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "RANGER FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" }
+          ]
+        },
+        {
+          "id": "ffar-1",
+          "name": "FFAR 1",
+          "rank": 10,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "KEPLER MICROFLEX", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "G-GRIP", "type": "Underbarrel" },
+            { "name": "COMMANDO GRIP", "type": "Grip" }
+          ]
+        },
+        {
+          "id": "tr2",
+          "name": "TR2",
+          "rank": 11,
+          "type": "Marksman",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "grekhova",
+          "name": "GREKHOVA",
+          "rank": 12,
+          "type": "Pistol",
+          "attachments": [
+            { "name": "KEPLER MICROFLEX", "type": "Optic" },
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "EXTENDED MAG I", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" },
+            { "name": "RAPID FIRE", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "as-val",
+          "name": "AS VAL",
+          "rank": 11,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "SUPPRESSED REINFORCED BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG III", "type": "Magazine" },
+            { "name": "CQB GRIP", "type": "Grip" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "model-l",
+          "name": "MODEL L",
+          "rank": 12,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VOLZHSKIY REFLEX", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "katt-amr",
+          "name": "KATT-AMR",
+          "rank": 2,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "VT-7 SPIRITFIRE SUPPRESSOR XL", "type": "Muzzle" },
+            { "name": "ZANG-34 BARREL", "type": "Barrel" },
+            { "name": "TACTICAL STOCK PAD", "type": "Stock" },
+            { "name": ".50 CAL HIGH VELOCITY", "type": "Ammunition" },
+            { "name": "EPHEMERAL QUICKBOLT", "type": "Bolt" }
+          ]
+        },
+        {
+          "id": "victus-xmr",
+          "name": "Victus XMR",
+          "rank": 3,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "NILSOUND 90 SILENCER", "type": "Muzzle" },
+            { "name": "MACK 8 33.5 SUPER", "type": "Barrel" },
+            { "name": "VLK LZR 7MW", "type": "Laser" },
+            { "name": "FORGE TAC DELTA 4", "type": "Optic" },
+            { "name": ".50 CAL EXPLOSIVE", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "fjx-imperium",
+          "name": "FJX Imperium",
+          "rank": 4,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "SONIC SUPPRESSOR L", "type": "Muzzle" },
+            { "name": "FAHRENHEIT 29\"", "type": "Barrel" },
+            { "name": "HEINRICHTER HYBRID SCOPE", "type": "Optic" },
+            { "name": ".408 EXPLOSIVE", "type": "Ammunition" },
+            { "name": "FJX BLAST", "type": "Bolt" }
+          ]
+        },
+        {
+          "id": "lr-7.62",
+          "name": "LR 7.62",
+          "rank": 5,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "LIGHTWEIGHT HANDGUARD", "type": "Underbarrel" },
+            { "name": "QUICKDRAW GRIP", "type": "Grip" },
+            { "name": "7.62 NATO OVERPRESSURED", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "kar98k",
+          "name": "Kar98k",
+          "rank": 6,
+          "type": "Marksman",
+          "attachments": [
+            { "name": "RANGE CALLER V3.4 OPTIC", "type": "Optic" },
+            { "name": "BRYSON CARBINE-S BARREL", "type": "Barrel" },
+            { "name": "DR-6 HANDSTOP", "type": "Underbarrel" },
+            { "name": "REPELLER TAC STOCK", "type": "Stock" },
+            { "name": "SL RAZORHAWK LASER LIGHT", "type": "Laser" }
+          ]
+        },
+        {
+          "id": "krig-c",
+          "name": "KRIG C",
+          "rank": 13,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VOLZHSKIY REFLEX", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "m13b",
+          "name": "M13B",
+          "rank": 14,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "CORVUS SLASH GEN. 2", "type": "Muzzle" },
+            { "name": "VLK LZR 7MW", "type": "Laser" },
+            { "name": "CRONEN MINI PRO", "type": "Optic" },
+            { "name": "BRUEN FLASH V4 STOCK", "type": "Stock" },
+            { "name": "60 ROUND MAG", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "m4",
+          "name": "M4",
+          "rank": 15,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "KOMODO HEAVY", "type": "Muzzle" },
+            { "name": "HIGHTOWER 20\" BARREL", "type": "Barrel" },
+            { "name": "FTAC RIPPER 56", "type": "Underbarrel" },
+            { "name": "60 ROUND MAG", "type": "Magazine" },
+            { "name": "SAKIN ZX GRIP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "striker",
+          "name": "Striker",
+          "rank": 13,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "STRIKER RECON LONG BARREL", "type": "Barrel" },
+            { "name": "XRK EDGE BW-4 HANDSTOP", "type": "Underbarrel" },
+            { "name": "48 ROUND MAG", "type": "Magazine" },
+            { "name": "SAKIN ZX GRIP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "mx9",
+          "name": "MX9",
+          "rank": 14,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "SLATE REFLECTOR", "type": "Optic" },
+            { "name": "9MM SUB HP", "type": "Ammunition" },
+            { "name": "32 ROUND MAG", "type": "Magazine" },
+            { "name": "BRUEN Q900 GRIP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "bas-p",
+          "name": "BAS-P",
+          "rank": 15,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "VLK LZR 7MW", "type": "Laser" },
+            { "name": "SL SKELETAL VERTICAL GRIP", "type": "Underbarrel" },
+            { "name": "50 ROUND DRUM", "type": "Magazine" },
+            { "name": "BRUEN FLASH GRIP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "vaznev-9k",
+          "name": "Vaznev-9k",
+          "rank": 16,
+          "type": "SMG",
+          "attachments": [
+            { "name": "BRUEN CUBIC COMP", "type": "Muzzle" },
+            { "name": "FSS OLE-V LASER", "type": "Laser" },
+            { "name": "VLK STOCKLESS", "type": "Stock" },
+            { "name": "45 ROUND MAG", "type": "Magazine" },
+            { "name": "TRUE-TAC GRIP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "vel-46",
+          "name": "VEL 46",
+          "rank": 17,
+          "type": "SMG",
+          "attachments": [
+            { "name": "XTEN RAZOR COMP", "type": "Muzzle" },
+            { "name": "1MW QUICK FIRE LASER", "type": "Laser" },
+            { "name": "VEL A-568 COLLAPSED", "type": "Stock" },
+            { "name": "50 ROUND MAG", "type": "Magazine" },
+            { "name": "SCHLAGER SOLDIER GRIP", "type": "Reargrip" }
+          ]
+        },
+        { "id": "marine-sp", "name": "Marine SP", "rank": 18, "type": "Shotgun", "attachments": [] },
+        {
+          "id": "sakin-mg38",
+          "name": "Sakin MG38",
+          "rank": 16,
+          "type": "LMG",
+          "attachments": [
+            { "name": "TY-LR8", "type": "Muzzle" },
+            { "name": "20\" BRUEN SILVER SERIES BARREL", "type": "Barrel" },
+            { "name": "AIM OP-V4", "type": "Optic" },
+            { "name": "CRONEN WL55", "type": "Underbarrel" },
+            { "name": "BRUEN G305 GRIP WRAP", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "mcw",
+          "name": "MCW",
+          "rank": 17,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "16.5\" MCW CYCLONE LONG BARREL", "type": "Barrel" },
+            { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+            { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+            { "name": "60 ROUND DRUM", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "xmg",
+          "name": "XMG",
+          "rank": 18,
+          "type": "LMG",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "BUFFER WEIGHT STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "stg44",
+          "name": "STG44",
+          "rank": 19,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+            { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "BRUEN ACRUX HEAVY BARREL", "type": "Barrel" },
+            { "name": "50 ROUND DRUM", "type": "Magazine" },
+            { "name": "DR79 COMBO STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "hrm-9",
+          "name": "HRM-9",
+          "rank": 19,
+          "type": "SMG",
+          "attachments": [
+            { "name": "ZEHMN35 COMPENSATED FLASH HIDER", "type": "Muzzle" },
+            { "name": "FOLDING STOCK", "type": "Stock" },
+            { "name": "XRK EDGE BW-4 HANDSTOP", "type": "Underbarrel" },
+            { "name": "9MM HIGH GRAIN ROUNDS", "type": "Ammunition" },
+            { "name": "50 ROUND DRUM", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "ak-74",
+          "name": "AK-74",
+          "rank": 20,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VOLZHSKIY REFLEX", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG III", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "pdsw-528",
+          "name": "PDSW 528",
+          "rank": 21,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "SLATE REFLECTOR", "type": "Optic" },
+            { "name": "HOLLOW EXTENDED STOCK", "type": "Stock" },
+            { "name": "STIP-40 GRIP", "type": "Reargrip" },
+            { "name": "GR33 LIGHT RAIL", "type": "Rail" }
+          ]
+        },
+        {
+          "id": "taq-56",
+          "name": "TAQ-56",
+          "rank": 21,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+            { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+            { "name": "5.56 HIGH VELOCITY", "type": "Ammunition" },
+            { "name": "60 ROUND MAG", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "lachmann-shroud",
+          "name": "Lachmann Shroud",
+          "rank": 22,
+          "type": "SMG",
+          "attachments": [
+            { "name": "VLK LZR 7MW", "type": "Laser" },
+            { "name": "XRK EDGE BW-4 HANDSTOP", "type": "Underbarrel" },
+            { "name": "9MM SUB HP", "type": "Ammunition" },
+            { "name": "40 ROUND MAG", "type": "Magazine" },
+            { "name": "LACHMANN TCG-10", "type": "Reargrip" }
+          ]
+        },
+        {
+          "id": "lw3a1-frostline",
+          "name": "LW3A1 FROSTLINE",
+          "rank": 7,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "MONOLITHIC SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "LIGHTWEIGHT PAD", "type": "Stock Pad" },
+            { "name": "QUICKDRAW RISER", "type": "Comb" },
+            { "name": "7.62 NATO OVERPRESSURED", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "reclaimer-18",
+          "name": "Reclaimer 18",
+          "rank": 23,
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "BRYSON CHOKE", "type": "Muzzle" },
+            { "name": "CENTER MASS GRIP TAPE", "type": "Rear Grip" },
+            { "name": "STOVL TAC LASER", "type": "Laser" },
+            { "name": "12 GAUGE DRAGON'S BREATH", "type": "Ammunition" },
+            { "name": "JAK DEVASTATORS", "type": "Conversion Kit" }
+          ]
+        },
+        { "id": "feng-82", "name": "Feng 82", "rank": 22, "type": "LMG", "attachments": [] },
+        {
+          "id": "goblin-mk2",
+          "name": "GOBLIN MK2",
+          "rank": 23,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "REINFORCED BARREL", "type": "Barrel" },
+            { "name": "EXTENDED MAG II", "type": "Magazine" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "amr-mod-4",
+          "name": "AMR MOD 4",
+          "rank": 8,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "LIGHTWEIGHT PAD", "type": "Underbarrel" },
+            { "name": "QUICKDRAW GRIP", "type": "Grip" },
+            { "name": ".50 BMG OVERPRESSURED", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "pml-5.56",
+          "name": "PML 5.56",
+          "rank": 24,
+          "type": "LMG",
+          "attachments": [
+            { "name": "WILLIS 3X", "type": "Optic" },
+            { "name": "COMPENSATOR", "type": "Muzzle" },
+            { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "RECOIL SPRINGS", "type": "Fire Mods" }
+          ]
+        },
+        {
+          "id": "pp-919",
+          "name": "PP-919",
+          "rank": 24,
+          "type": "SMG",
+          "attachments": [
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "FAST MAG I", "type": "Magazine" },
+            { "name": "ERGONOMIC GRIP", "type": "Grip" },
+            { "name": "INFILTRATOR STOCK", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "sirin-9mm",
+          "name": "SIRIN 9mm",
+          "rank": 25,
+          "type": "Special",
+          "attachments": [
+            { "name": "IRON SIGHT", "type": "Optic" },
+            { "name": "SUPPRESSOR", "type": "Muzzle" },
+            { "name": "LONG BARREL", "type": "Barrel" },
+            { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" },
+            { "name": "EXTENDED MAG I", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "mtz-556",
+          "name": "MTZ-556",
+          "rank": 25,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+            { "name": "MTZ DRIFTER HEAVY LONG BARREL", "type": "Barrel" },
+            { "name": "AIM OP-V4", "type": "Optic" },
+            { "name": "MTZ MARAUDER STOCK", "type": "Stock" },
+            { "name": "50 ROUND DRUM", "type": "Magazine" }
+          ]
+        },
+        {
+          "id": "mors",
+          "name": "MORS",
+          "rank": 9,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "TONNE HEAVY BARREL", "type": "Barrel" },
+            { "name": "SL RAZORHAWK LASER LIGHT", "type": "Laser" },
+            { "name": "ICARUS LIGHT STOCK", "type": "Stock" },
+            { "name": "HVP ANTI-MATERIEL SLUG", "type": "Ammunition" },
+            { "name": "QUICK BOLT", "type": "Bolt" }
+          ]
+        },
+        {
+          "id": "xrk-stalker",
+          "name": "XRK Stalker",
+          "rank": 10,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "SONIC SUPPRESSOR XL", "type": "Muzzle" },
+            { "name": "FISSION 60 BARREL", "type": "Barrel" },
+            { "name": "HEINRICHTER HYBRID SCOPE", "type": "Optic" },
+            { "name": ".50 CAL HIGH GRAIN ROUNDS", "type": "Ammunition" },
+            { "name": "XRK STALKER LIGHT BOLT", "type": "Bolt" }
+          ]
+        },
+        { "id": "nail-gun", "name": "Nail Gun", "rank": 26, "type": "Special", "attachments": [] },
+        {
+          "id": "mx-guardian",
+          "name": "MX Guardian",
+          "rank": 29,
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "BRYSON CHOKE", "type": "Muzzle" },
+            { "name": "HYP-LM", "type": "Barrel" },
+            { "name": "POINT-G3P 04", "type": "Laser" },
+            { "name": "12 GAUGE DRAGON'S BREATH", "type": "Ammunition" },
+            { "name": "BURST-FIRE TRIGGER", "type": "Trigger Action" }
+          ]
+        }
+      ]
+    },
+   {
+  "name": "B Tier",
+  "weapons": [
+    {
+      "id": "Pulemyot 762",
+      "name": "Pulemyot 762",
+      "rank": 26,
+      "type": "LMG",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "QUARTERMASTER SUPPRESSOR", "type": "Muzzle" },
+        { "name": "RECKONING-8 HEAVY BARREL", "type": "Barrel" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "IVANDOV WOOD STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "tr2",
+      "name": "TR2",
+      "rank": 27,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+        { "name": "GAIN-TWIST BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "WILLIS 3X", "type": "Optic" },
+        { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "DM-10",
+      "name": "DM-10",
+      "rank": 28,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "PORTED COMPENSATOR", "type": "Muzzle" },
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "K&S RED DOT", "type": "Optic" },
+        { "name": "BUFFER WEIGHT STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "Essex Model 07",
+      "name": "Essex Model 07",
+      "rank": 29,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "7.62 NATO OVERPRESSURED", "type": "Firemods" },
+        { "name": "EXTENDED MAG I", "type": "Magazine" },
+        { "name": "WILLIS 3X", "type": "Optic" },
+        { "name": "QUICKDRAW LEVER", "type": "Rear Grip" }
+      ]
+    },
+    {
+      "id": "Superi 46",
+      "name": "Superi 46",
+      "rank": 31,
+      "type": "SMG",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "QUARTERMASTER SUPPRESSOR", "type": "Muzzle" },
+        { "name": "ZULU OP3 LIGHT BARREL", "type": "Barrel" },
+        { "name": "40 ROUND MAG", "type": "Magazine" },
+        { "name": "RESCUE-9 STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "FJX Horus",
+      "name": "FJX Horus",
+      "type": "SMG",
+      "attachments": [
+        { "name": "QUARTERMASTER SUPPRESSOR", "type": "Muzzle" },
+        { "name": "MARTIS HEAVY BARREL", "type": "Barrel" },
+        { "name": "PARACORD GRIP", "type": "Underbarrel" },
+        { "name": "60 ROUND DRUM", "type": "Magazine" },
+        { "name": "LOPPER LX-D STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "RIVAL-9",
+      "name": "RIVAL-9",
+      "rank": 34,
+      "type": "SMG",
+      "attachments": [
+        { "name": "Shadowstrike Suppressor", "type": "Muzzle" },
+        { "name": "EXF Close Quarters Assault Stock", "type": "Stock" },
+        { "name": "SL SKELETAL VERTICAL GRIP", "type": "Underbarrel" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "Rival Vice Assault Grip", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "AMR9",
+      "name": "AMR9",
+      "rank": 35,
+      "type": "SMG",
+      "attachments": [
+        { "name": "CASUS BRAKE", "type": "Muzzle" },
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "WOLFHOUND CARBINE STOCK", "type": "Stock" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "9MM HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "ISO Hemlock",
+      "name": "ISO Hemlock",
+      "rank": 30,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "Fielder-T50", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "Bruen Heavy Support Grip", "type": "Underbarrel" },
+        { "name": "45 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "Holger 556",
+      "name": "Holger 556",
+      "rank": 31,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "CHRIOS-6 MATCH", "type": "Barrel" },
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "RB ADDLE ASSAULT STOCK", "type": "Stock" },
+        { "name": "40 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "RAM-9",
+      "name": "RAM-9",
+      "rank": 36,
+      "type": "SMG",
+      "attachments": [
+        { "name": "FSS IMPERATOR LIGHT BARREL", "type": "Barrel" },
+        { "name": "FTAC MSP-98 HANDSTOP", "type": "Underbarrel" },
+        { "name": "50 ROUND MAG", "type": "Magazine" },
+        { "name": "HASTE XV GRIP TAPE", "type": "Rear Grip" },
+        { "name": "MOTION-TAC PAD", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "556 Icarus",
+      "name": "556 Icarus",
+      "rank": 32,
+      "type": "LMG",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "FSS OLE-V LASER", "type": "Laser" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "SAKIN ZX GRIP", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "DG-58 LSW",
+      "name": "DG-58 LSW",
+      "rank": 33,
+      "type": "LMG",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "QUARTERMASTER SUPPRESSOR", "type": "Muzzle" },
+        { "name": "WUDI LONG BARREL", "type": "Barrel" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "RECOIL REDUCTION BUTTPLATE", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "BAL-27",
+      "name": "BAL-27",
+      "rank": 34,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "CASUS BRAKE", "type": "Muzzle" },
+        { "name": "60 ROUND MAG", "type": "Magazine" },
+        { "name": "ARDENT TAC STOCK", "type": "Stock" },
+        { "name": "5.7X28MM HIGH VELOCITY", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "TAQ Eradicator",
+      "name": "TAQ Eradicator",
+      "rank": 35,
+      "type": "LMG",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "CASUS BRAKE L", "type": "Muzzle" },
+        { "name": "CONQUER-70 LONG BARREL", "type": "Barrel" },
+        { "name": "TACVERTE CORE STOCK", "type": "Stock" },
+        { "name": "7.62X51MM HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "STB 556",
+      "name": "STB 556",
+      "rank": 36,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "FTAC FB20", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "42 Round Mag", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "bp50",
+      "name": "BP50",
+      "rank": 37,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "CASUS BRAKE", "type": "Muzzle" },
+        { "name": "LORE-9 HEAVY BARREL", "type": "Barrel" },
+        { "name": "45 ROUND MAG", "type": "Magazine" },
+        { "name": "MOAT-40 STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "Holger 26",
+      "name": "Holger 26",
+      "rank": 38,
+      "type": "LMG",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "HOLGER FACTORY BARREL", "type": "Barrel" },
+        { "name": "INTLAS CAS-14", "type": "Optic" },
+        { "name": "ASCENT LORD STOCK", "type": "Stock" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "TAQ Evolvere",
+      "name": "TAQ Evolvere",
+      "rank": 40,
+      "type": "LMG",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "LRF RIGHTEOUS LONG BARREL", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "RAMPART HEAVY STOCK", "type": "Stock" },
+        { "name": "HOUND-9G GRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "Tempus Torrent",
+      "name": "Tempus Torrent",
+      "rank": 42,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "24\" Outreach 4", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "30 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "MCW 6.8",
+      "name": "MCW 6.8",
+      "rank": 43,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "CASUS BRAKE L", "type": "Muzzle" },
+        { "name": "MCW CROWN-30 BARREL", "type": "Barrel" },
+        { "name": "60 ROUND DRUM", "type": "Magazine" },
+        { "name": "6.8 WRATH HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "SOA Subverter",
+      "name": "SOA Subverter",
+      "rank": 44,
+      "type": "Battle Rifle",
+      "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
+          { "name": "DOZER-90 LONG BARREL", "type": "Barrel" },
+          { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+          { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+          { "name": "50 ROUND DRUM", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "KV Broadside",
+      "name": "KV Broadside",
+      "rank": 37,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "JAK JAWBREAKER", "type": "Conversion Kit" },
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "ZEHMN35 COMPENSATED FLASH HIDER", "type": "Muzzle" },
+        { "name": "BRUEN PIVOT VERTICAL GRIP", "type": "Underbarrel" },
+        { "name": "DEMO-X2 GRIP", "type": "Rear Grip" }
+      ]
+    },
+    {
+      "id": "Riveter",
+      "name": "Riveter",
+      "rank": 38,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "Bryson Choke", "type": "Muzzle" },
+        { "name": "SA Draven-20 Long Barrel", "type": "Barrel" },
+        { "name": "Bruen Bastion Angled Grip", "type": "Underbarrel" },
+        { "name": ".410 GAUGE INCENDIARY", "type": "Ammunition" },
+        { "name": "30 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "BAS-B",
+      "name": "BAS-B",
+      "rank": 45,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "CASUS BRAKE L", "type": "Muzzle" },
+        { "name": "BRUEN VENOM LONG BARREL", "type": "Barrel" },
+        { "name": "45 ROUND MAG", "type": "Magazine" },
+        { "name": "RAVAGE-20 HEAVY STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "TAQ-V",
+      "name": "TAQ-V",
+      "rank": 47,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "CASUS BRAKE L", "type": "Muzzle" },
+        { "name": "XRK BOWBREAKER GRIP", "type": "Underbarrel" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "7.62X51MM LOW GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "Lachmann-556",
+      "name": "Lachmann-556",
+      "rank": 48,
+      "type": "Assault Rifle",
+      "attachments": []
+    },
+    {
+      "id": "Fennec 45",
+      "name": "Fennec 45",
+      "rank": 39,
+      "type": "SMG",
+      "attachments": [
+        { "name": "S-37C DL BREACHER DEVICE S", "type": "Muzzle" },
+        { "name": "5.5\" Fennec Minitac", "type": "Barrel" },
+        { "name": "BRUEN BASTION ANGLED GRIP", "type": "Underbarrel" },
+        { "name": "Fennec Mag 45", "type": "Magazine" },
+        { "name": "Hipshot L20", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "Lockwood MK2",
+      "name": "Lockwood MK2",
+      "rank": 40,
+      "type": "Marksman",
+      "attachments": [
+          { "name": "JAK WARDENS", "type": "Conversion Kit" },
+          { "name": "CROWN BREAKER CHOKE", "type": "Muzzle" },
+          { "name": "VERDANT HOOK CYLINDRICAL LASER", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "Rapp H",
+      "name": "Rapp H",
+      "rank": 50,
+      "type": "LMG",
+      "attachments": [
+        { "name": "ZLR Talon 5", "type": "Muzzle" },
+        { "name": "Aim OP-V4", "type": "Optic" },
+        { "name": "MEER Recoil-56 Factory Stock", "type": "Stock" },
+        { "name": "Hound-9G Grip", "type": "Underbarrel" },
+        { "name": "Lachmann TCG-10", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "MTZ-762",
+      "name": "MTZ-762",
+      "rank": 51,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "MTZ-PRECISION BLACKTHORN BARREL", "type": "Barrel" },
+        { "name": "EXF CLOSE QUARTERS ASSAULT STOCK", "type": "Stock" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "30 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "SVA 545",
+      "name": "SVA 545",
+      "rank": 52,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "STV PRECISION BARREL", "type": "Barrel" },
+        { "name": "60 ROUND MAG", "type": "Magazine" },
+        { "name": "MANE V6 STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "Bruen Mk9",
+      "name": "Bruen Mk9",
+      "rank": 53,
+      "type": "LMG",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "23\" XRK HORIZON V2", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "60 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "Tempus Razorback",
+      "name": "Tempus Razorback",
+      "rank": 54,
+      "type": "Assault Rifle",
+      "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+          { "name": "16\" TANKR-V", "type": "Barrel" },
+          { "name": "Aim OP-V4", "type": "Optic" },
+          { "name": "DM Proto-Grip", "type": "Underbarrel" },
+          { "name": "60 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "Sidewinder",
+      "name": "Sidewinder",
+      "rank": 55,
+      "type": "Battle Rifle",
+      "attachments": [
+          { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+          { "name": "TEMPUS PREDATOR PRECISION BARREL", "type": "Barrel" },
+          { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+          { "name": "Bruen Heavy Support Grip", "type": "Underbarrel" },
+          { "name": "30 ROUND DRUM", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "DTIR 30-06",
+      "name": "DTIR 30-06",
+      "rank": 56,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "EXTND-10 LONG BARREL", "type": "Barrel" },
+        { "name": "40 ROUND MAG", "type": "Magazine" },
+        { "name": "RIFLEMAN 200 STOCK", "type": "Stock" }
+      ]
+    },
+    {
+      "id": "WSP-9",
+      "name": "WSP-9",
+      "rank": 41,
+      "type": "SMG",
+      "attachments": [
+          { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+          { "name": "HISS SHORT LIGHT BARREL", "type": "Barrel" },
+          { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+          { "name": "XRK EDGE BW-4 HANDSTOP", "type": "Underbarrel" },
+          { "name": "40 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "PU-21",
+      "name": "PU-21",
+      "rank": 57,
+      "type": "LMG",
+      "attachments": [
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "RECOIL SPRINGS", "type": "Firemods" },
+        { "name": "COMPENSATOR", "type": "Muzzle" },
+        { "name": "VOLZHSKIY REFLEX", "type": "Optic" },
+        { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "GPMG-7",
+      "name": "GPMG-7",
+      "rank": 58,
+      "type": "LMG",
+      "attachments": [
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "COMPENSATOR", "type": "Muzzle" },
+        { "name": "MERLIN REFLEX", "type": "Optic" },
+        { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "KVD Enforcer",
+      "name": "KVD Enforcer",
+      "rank": 59,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "MK. 3 REFLECTOR", "type": "Optic" },
+        { "name": "FTAC MSP-98 HANDSTOP", "type": "Underbarrel" },
+        { "name": "15 ROUND MAG", "type": "Magazine" },
+        { "name": "DEMO TL20 RECOIL GRIP", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "HCR 56",
+      "name": "HCR 56",
+      "rank": 60,
+      "type": "LMG",
+      "attachments": [
+        { "name": "Xten Havoc 90", "type": "Muzzle" },
+        { "name": "FTAC Hornet 20\" Barrel", "type": "Barrel" },
+        { "name": "VLK LZR 7MW", "type": "Laser" },
+        { "name": "Cronen Mini Pro", "type": "Optic" },
+        { "name": "STIP-40 Grip", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "Bryson 890",
+      "name": "Bryson 890",
+      "rank": 44,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "FLASH TWIST-90", "type": "Muzzle" },
+        { "name": "21.5\" Bryson TacFire", "type": "Barrel" },
+        { "name": "SAWED OFF MOD", "type": "Stock" },
+        { "name": "KIMURA RYL33 LASER LIGHT", "type": "Laser" },
+        { "name": "DEMO X50 TACTICAL PUMP", "type": "Guard" }
+      ]
+    },
+    {
+      "id": "Bryson 800",
+      "name": "Bryson 800",
+      "rank": 45,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "Bryson Choke", "type": "Muzzle" },
+        { "name": "29.5\" Rifled Barrel", "type": "Barrel" },
+        { "name": "Point-G3P 04", "type": "Laser" },
+        { "name": "Sawed Off MOD", "type": "Stock" },
+        { "name": "Demo X50 Tactical Pump", "type": "Guard" }
+      ]
+    },
+    {
+      "id": "Expedite 12",
+      "name": "Expedite 12",
+      "rank": 46,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "FLASH TWIST-90", "type": "Muzzle" },
+        { "name": "SCHLAGER VOID GRIP", "type": "Reargrip" },
+        { "name": "RESONANCE STOCK COLLAPSED", "type": "Stock" },
+        { "name": "KIMURA RYL33 LASER LIGHT", "type": "Laser" },
+        { "name": "EXPEDITE L-BOLT", "type": "Bolt" }
+      ]
+    },
+    {
+      "id": "AEK-973",
+      "name": "AEK-973",
+      "rank": 61,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "7.62X39MM OVERPRESSURED", "type": "Firemods" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "COMPENSATOR", "type": "Muzzle" },
+        { "name": "KEPLER RED HOT", "type": "Optic" }
+      ]
+    },
+    {
+      "id": "Striker 9",
+      "name": "Striker 9",
+      "rank": 47,
+      "type": "SMG",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "ZEHMN35 COMPENSATED FLASH HIDER", "type": "Muzzle" },
+        { "name": "STRIKER ELITE LONG BARREL", "type": "Barrel" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "SAKIN ZX GRIP", "type": "Rear Grip" }
+      ]
+    },
+    {
+      "id": "FSS Hurricane",
+      "name": "FSS Hurricane",
+      "rank": 48,
+      "type": "SMG",
+      "attachments": [
+        { "name": "Spiral V3.5 Flash Hider", "type": "Muzzle" },
+        { "name": "Schlager PEQ Box IV", "type": "Laser" },
+        { "name": "Demo Quicksilver Stock", "type": "Stock" },
+        { "name": "5.7x28MM Overpressured +P", "type": "Ammunition" },
+        { "name": "Phantom Grip", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "Static-HV",
+      "name": "Static-HV",
+      "rank": 49,
+      "type": "SMG",
+      "attachments": [
+        { "name": "SHADOWSTRIKE SUPPRESSOR S", "type": "Muzzle" },
+        { "name": "AUGER 840 LIGHT BARREL", "type": "Barrel" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "SPRY 34 LIGHT STOCK", "type": "Stock" },
+        { "name": "VERDANT HOOK CYLINDRICAL LASER", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "WSP Stinger",
+      "name": "WSP Stinger",
+      "rank": 50,
+      "type": "Pistol",
+      "attachments": [
+          { "name": "HISS SHORT LIGHT BARREL", "type": "Barrel" },
+          { "name": "32 ROUND MAG", "type": "Magazine" },
+          { "name": "AKIMBO WSP STINGER", "type": "Stock" },
+          { "name": "VERDANT HOOK MOUNTED LASER", "type": "Laser" },
+          { "name": "9MM HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "SO-14",
+      "name": "SO-14",
+      "rank": 62,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "22\" BOREMASTER BARREL", "type": "Barrel" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "7.62X51MM HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "Minibak",
+      "name": "Minibak",
+      "rank": 51,
+      "type": "SMG",
+      "attachments": [
+        { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "FSS OLE-V LASER", "type": "Laser" },
+        { "name": "SLATE REFLECTOR", "type": "Optic" },
+        { "name": "Otrezat Stock", "type": "Stock" },
+        { "name": "Demo-X2 Grip", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "Lachmann Sub",
+      "name": "Lachmann Sub",
+      "rank": 52,
+      "type": "SMG",
+      "attachments": [
+        { "name": "Shadowstrike Suppressor", "type": "Muzzle" },
+        { "name": "VLK LZR 7MW", "type": "Laser" },
+        { "name": "XRK Edge BW-4 Handstop", "type": "Underbarrel" },
+        { "name": "9MM HIGH GRAIN ROUNDS", "type": "Ammunition" },
+        { "name": "40 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "TANTO .22",
+      "name": "TANTO .22",
+      "rank": 53,
+      "type": "SMG",
+      "attachments": [
+        { "name": "QUICKDRAW GRIP", "type": "Grip" },
+        { "name": "ERGONOMIC GRIP", "type": "Rear Grip" },
+        { "name": "LONG BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG I", "type": "Magazine" },
+        { "name": "COMPENSATOR", "type": "Muzzle" },
+        { "name": "VERTICAL FOREGRIP", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "MAELSTROM",
+      "name": "MAELSTROM",
+      "rank": 54,
+      "type": "Shotgun",
+      "attachments": [
+          { "name": "SA SCHWEIGEN DX", "type": "Muzzle" },
+          { "name": "PARAGON 19.5\" BARREL", "type": "Barrel" },
+          { "name": "VLK LZR 7MW", "type": "Laser" },
+          { "name": "MAELSTROM TACTICAL STOCK", "type": "Stock" },
+          { "name": "10 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "STRYDER .22",
+      "name": "STRYDER .22",
+      "rank": 55,
+      "type": "Pistol",
+      "attachments": [
+        { "name": "REMUDA MINI REFLEX", "type": "Optic" },
+        { "name": "SUPPRESSOR", "type": "Muzzle" },
+        { "name": "LONG BARREL", "type": "Barrel" },
+        { "name": "FAST MAG I", "type": "Magazine" },
+        { "name": "ERGONOMIC GRIP", "type": "Rear Grip" }
+      ]
+    },
+    {
+      "id": "9mm PM",
+      "name": "9mm PM",
+      "rank": 56,
+      "type": "Pistol",
+      "attachments": [
+        { "name": "LONG BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "CQB GRIP", "type": "Rear Grip" },
+        { "name": "AKIMBO 9MM PM", "type": "Stock" },
+        { "name": "STEADY AIM LASER", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "GS45",
+      "name": "GS45",
+      "rank": 57,
+      "type": "Pistol",
+      "attachments": [
+        { "name": "LONG BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "CQB GRIP", "type": "Rear Grip" },
+        { "name": "AKIMBO GS45", "type": "Stock" },
+        { "name": "STEADY AIM LASER", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "WSP Swarm",
+      "name": "WSP Swarm",
+      "rank": 58,
+      "type": "SMG",
+      "attachments": [
+        { "name": "WSP AKIMBO BRACE STOCK", "type": "Conversion Kit" },
+        { "name": "S-37C DL BREACHER DEVICE", "type": "Muzzle" },
+        { "name": "WSP RUTHLESS-L BARREL", "type": "Barrel" },
+        { "name": "50 ROUND MAG", "type": "Magazine" },
+        { "name": "VERDANT HOOK CYLINDRICAL LASER", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "Haymaker",
+      "name": "Haymaker",
+      "rank": 59,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "IMPERATOR LONG BARREL", "type": "Barrel" },
+        { "name": "20 ROUND DRUM", "type": "Magazine" },
+        { "name": "NO STOCK MOD", "type": "Stock" },
+        { "name": "SL RAZORHAWK LASER LIGHT", "type": "Laser" },
+        { "name": "12 GAUGE DRAGON'S BREATH", "type": "Fire Mods" }
+      ]
+    },
+    {
+      "id": "Stormender",
+      "name": "Stormender",
+      "rank": 60,
+      "type": "Shotgun",
+      "attachments": [
+          { "name": "JAK VOLKSTORM", "type": "Conversion Kit" }
+      ]
+    },
+    {
+      "id": "Kastov LSW",
+      "name": "Kastov LSW",
+      "rank": 63,
+      "type": "LMG",
+      "attachments": [
+        { "name": "JAK GLASSLESS OPTIC", "type": "Optic" },
+        { "name": "CASUS BRAKE", "type": "Muzzle" },
+        { "name": "MITIGATOR X40 HEAVY BARREL", "type": "Barrel" },
+        { "name": "SPETSNAZ S15 STOCK", "type": "Stock" },
+        { "name": "5.45 HIGH VELOCITY", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "Kastov 545",
+      "name": "Kastov 545",
+      "rank": 64,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "JAK REQUIEM", "type": "Conversion Kit" },
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "60 ROUND MAG", "type": "Magazine" },
+        { "name": "5.45 HIGH VELOCITY", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "Kastov 762",
+      "name": "Kastov 762",
+      "rank": 65,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "CASUS BRAKE L", "type": "Muzzle" },
+        { "name": "IG-K30 406MM", "type": "Barrel" },
+        { "name": "XRK BOWBREAKER GRIP", "type": "Underbarrel" },
+        { "name": "40 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "TR-76 Geist",
+      "name": "TR-76 Geist",
+      "rank": 66,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "CASUS BRAKE", "type": "Muzzle" },
+        { "name": "BRUEN BRIDLE HEAVY", "type": "Barrel" },
+        { "name": "45 ROUND MAG", "type": "Magazine" },
+        { "name": "7.62X39MM LOW GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "ISO 45",
+      "name": "ISO 45",
+      "rank": 61,
+      "type": "SMG",
+      "attachments": [
+        { "name": "SHADOWSTRIKE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "Demo Fade Tac", "type": "Stock" },
+        { "name": "SL SKELETAL VERTICAL GRIP", "type": "Underbarrel" },
+        { "name": "45 Round Drum", "type": "Magazine" },
+        { "name": "A30 Stout", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "MCPR-300",
+      "name": "MCPR-300",
+      "rank": 11,
+      "type": "Sniper",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "22\" OMX-456", "type": "Barrel" },
+        { "name": "5 ROUND MAG", "type": "Magazine" },
+        { "name": "FSS MERC STOCK", "type": "Stock" },
+        { "name": ".300 MAG HIGH VELOCITY", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "SP-X 80",
+      "name": "SP-X 80",
+      "rank": 12,
+      "type": "Sniper",
+      "attachments": [
+        { "name": "SONIC SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "FSS OLE-V LASER", "type": "Laser" },
+        { "name": "PVZ-890 TAC Stock", "type": "Stock" },
+        { "name": ".300 High Velocity", "type": "Ammunition" },
+        { "name": "FSS ST87 Bolt", "type": "Bolt" }
+      ]
+    },
+    {
+      "id": "LA-B 330",
+      "name": "LA-B 330",
+      "rank": 13,
+      "type": "Sniper",
+      "attachments": [
+        { "name": "SONIC SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "FSS OLE-V LASER", "type": "Laser" },
+        { "name": ".300 High Velocity", "type": "Ammunition" },
+        { "name": "FSS EL-T Pouch", "type": "Comb" },
+        { "name": "FSS ST87 Bolt", "type": "Bolt" }
+      ]
+    },
+    {
+      "id": "Crossbow",
+      "name": "Crossbow",
+      "rank": 67,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "SO MOMENTI", "type": "Arms" },
+        { "name": "28-STRAND CABLE", "type": "Wire" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "DR-6 HANDSTOP", "type": "Underbarrel" },
+        { "name": "BRIGHTBLAZE 20\" BOLTS", "type": "Bolts" }
+      ]
+    },
+    {
+      "id": "RAM-7",
+      "name": "RAM-7",
+      "rank": 68,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "Broadhead-3DP", "type": "Muzzle" },
+        { "name": "XRK COREMARK 40 HEAVY BARREL", "type": "Barrel" },
+        { "name": "HVS 3.4 PAD", "type": "Stock" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "60 ROUND DRUM", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "FR Avancer",
+      "name": "FR Avancer",
+      "rank": 69,
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "Harbinger D20", "type": "Muzzle" },
+        { "name": "435MM FR435", "type": "Barrel" },
+        { "name": "Aim OP-V4", "type": "Optic" },
+        { "name": "FTAC Ripper 56", "type": "Underbarrel" },
+        { "name": "60 Round Mag", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "LM-S",
+      "name": "LM-S",
+      "rank": 70,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "NYDAR MODEL 2023", "type": "Optic" },
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR L", "type": "Muzzle" },
+        { "name": "XRK BOWBREAKER GRIP", "type": "Underbarrel" },
+        { "name": "20 ROUND MAG", "type": "Magazine" },
+        { "name": "7.62X51MM HIGH GRAIN ROUNDS", "type": "Ammunition" }
+      ]
+    },
+    {
+      "id": "TSARKOV 7.62",
+      "name": "TSARKOV 7.62",
+      "rank": 71,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "REINFORCED BARREL", "type": "Barrel" },
+        { "name": "EXTENDED MAG II", "type": "Magazine" },
+        { "name": "COMPENSATOR", "type": "Muzzle" },
+        { "name": "WILLIS 3X", "type": "Optic" },
+        { "name": "WEIGHTED HANDGUARD", "type": "Underbarrel" }
+      ]
+    },
+    {
+      "id": "Lockwood 680",
+      "name": "Lockwood 680",
+      "rank": 62,
+      "type": "Shotgun",
+      "attachments": [
+        { "name": "BRYSON CHOKE", "type": "Muzzle" },
+        { "name": "BRYSON HAMMERFORGED LONG BARREL", "type": "Barrel" },
+        { "name": "SAWED OFF MOD", "type": "Stock" },
+        { "name": "KIMURA RYL33 LASER LIGHT", "type": "Laser" },
+        { "name": "EXPRESS LIGHT BOLT", "type": "Bolt" }
+      ]
+    },
+    {
+      "id": "X13 Auto",
+      "name": "X13 Auto",
+      "rank": 63,
+      "type": "Pistol",
+      "attachments": [
+        { "name": "XRK Ventor-900", "type": "Muzzle" },
+        { "name": "Impact Point", "type": "Barrel" },
+        { "name": "VX Pineapple", "type": "Underbarrel" },
+        { "name": "50 Round Drum", "type": "Magazine" },
+        { "name": "1MW Pistol Laser", "type": "Laser" }
+      ]
+    },
+    {
+      "id": "M16",
+      "name": "M16",
+      "type": "Assault Rifle",
+      "attachments": [
+        { "name": "JAK BFB", "type": "Muzzle" },
+        { "name": "14\" Carbine Shroud", "type": "Barrel" },
+        { "name": "INTLAS CAS-14", "type": "Optic" },
+        { "name": "BRUEN HEAVY SUPPORT GRIP", "type": "Underbarrel" },
+        { "name": "45 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "FTAC Recon",
+      "name": "FTAC Recon",
+      "rank": 73,
+      "type": "Battle Rifle",
+      "attachments": [
+        { "name": "Bull Rider 16.5\"", "type": "Barrel" },
+        { "name": "Aim OP-V4", "type": "Optic" },
+        { "name": "FTAC Ripper 56", "type": "Underbarrel" },
+        { "name": "15 Round Mag", "type": "Magazine" },
+        { "name": "Sakin ZX Grip", "type": "Reargrip" }
+      ]
+    },
+    {
+      "id": "DM56",
+      "name": "DM56",
+      "rank": 74,
+      "type": "Marksman",
+      "attachments": [
+        { "name": "VT-7 SPIRITFIRE SUPPRESSOR", "type": "Muzzle" },
+        { "name": "PRIME LORD HEAVY BARREL", "type": "Barrel" },
+        { "name": "CORIO EAGLESEYE 2.5X", "type": "Optic" },
+        { "name": "DR-6 HANDSTOP", "type": "Underbarrel" },
+        { "name": "40 ROUND MAG", "type": "Magazine" }
+      ]
+    },
+    {
+      "id": "Renetti",
+      "name": "Renetti",
+      "rank": 64,
+      "type": "Pistol",
+      "attachments": [
+        { "name": "MONOLITHIC SUPPRESSOR XS", "type": "Muzzle" },
+        { "name": "MLX SHORT COMPETITION BARREL", "type": "Barrel" },
+        { "name": "BRUEN EXPRESS", "type": "Trigger Action" },
+        { "name": "50 ROUND DRUM", "type": "Magazine" },
+        { "name": "AKIMBO RENETTI", "type": "Rear Grip" }
+      ]
+   }
+      ]
+    }
+  ]
+}

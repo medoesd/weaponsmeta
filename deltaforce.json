@@ -1,0 +1,967 @@
+{
+  "game": "Delta Force",
+  "tiers": [
+    {
+      "name": "Meta",
+      "weapons": [
+        {
+          "id": "CI-19",
+          "name": "CI-19",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "New Leviathan Tactical Long Barrel", "type": "Barrel" },
+            { "name": "New Stabilizing Gas Block", "type": "Gas Block" },
+            { "name": "5.8 Newtype 60-Round Drum Mag", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "New Type Vanguard Light Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "416 Light Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M4A1",
+          "name": "M4A1",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "AR Gabriel Long Barrel Combo", "type": "Barrel" },
+            { "name": "Universal Cheek Pad", "type": "Cheek Pad" },
+            { "name": "M4 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "M16A4 Stable Stock", "type": "Stock" },
+            { "name": "KC Hound Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "SMG-45",
+          "name": "SMG-45",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "SMG-45 Fission Long Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "SMG-45 40-Round Extended Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "SMG Echo Suppressor", "type": "Muzzle" },
+            { "name": "OSIGHT Red Dot", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "PEQ-2 Red Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "SR-3M",
+          "name": "SR-3M",
+          "type": "SMG",
+          "attachments": [
+            { "name": "X25U Angled Combat Grip", "type": "Foregrip" },
+            { "name": "SR-3M Cast Steel Tactical Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "Vss 45-Round Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Bastion Horizontal Compensator", "type": "Muzzle" },
+            { "name": "OSIGHT Red Dot", "type": "Optic" },
+            { "name": "AK Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "LA-3C Green Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "AWM",
+          "name": "AWM",
+          "type": "Sniper Rifle",
+          "attachments": [
+            { "name": "AWM Skyline Long Barrel", "type": "Barrel" },
+            { "name": "Resonant Sniper Rifle Suppressor", "type": "Muzzle" },
+            { "name": "ACOG Precision 6x Scope", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" },
+            { "name": "AWM M-Lok Kit", "type": "Unique" }
+          ]
+        },
+        {
+          "id": "R93",
+          "name": "R93",
+          "type": "Sniper Rifle",
+          "attachments": [
+            { "name": "R93 Lightweight Short Barrel", "type": "Barrel" },
+            { "name": "R93 Barrel Heat Shield", "type": "Heat Shield" },
+            { "name": "Whisper Tactical Suppressor", "type": "Muzzle" },
+            { "name": "ACOG Precision 6x Scope", "type": "Optic" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "weapons": [
+        {
+          "id": "G18",
+          "name": "G18",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "G18 Impact Long Barrel", "type": "Barrel" },
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "G-Series Pistol 33-Round Mag", "type": "Mag" },
+            { "name": "Elite Pistol Muzzle Brake", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "XK Competition Rear Grip", "type": "Rear Grip" }
+          ]
+        },
+        {
+          "id": "SG552",
+          "name": "SG552",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Resonant MKII Foregrip", "type": "Foregrip" },
+            { "name": "SG552 Knight Heavy Barrel", "type": "Barrel" },
+            { "name": "Stable Grip Base", "type": "Grip Mount" },
+            { "name": "SG552 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "AKM",
+          "name": "AKM",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "AKM Beaver Long Barrel Combo", "type": "Barrel" },
+            { "name": "AKM 40-Round Extended Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "AK Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "LA-3C Green Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "Bizon",
+          "name": "Bizon",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Bizon Blade Ultra-Long Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "Bizon Carbon Fiber Handguard", "type": "Handguard" },
+            { "name": "Bizon 64-Round Helical Mag", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "AK Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "PERST-7 Blue Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "SV-98",
+          "name": "SV-98",
+          "type": "Sniper Rifle",
+          "attachments": [
+            { "name": "SV-98 Agile Short Barrel", "type": "Barrel" },
+            { "name": "Resonant Sniper Rifle Suppressor", "type": "Muzzle" },
+            { "name": "ACOG Precision 6x Scope", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "K437",
+          "name": "K437",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "K437 Lancer Long Barrel Combo", "type": "Barrel" },
+            { "name": "K437 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Core Rail Stock", "type": "Stock" },
+            { "name": "DD Python Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "QCQ171",
+          "name": "QCQ171",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "QCQ171 Newtype Infiltrator Integrally Suppressed Barrel", "type": "Barrel" },
+            { "name": "Newtype 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "OSIGHT Red Dot", "type": "Optic" },
+            { "name": "New Type Vanguard Light Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Shadow Rail Stock", "type": "Stock" },
+            { "name": "Ranger Handguard Panel", "type": "Upper Patch" },
+            { "name": "QCQ171 Newtype Stable Bolt", "type": "Bolt" }
+          ]
+        },
+        {
+          "id": "M250",
+          "name": "M250",
+          "type": "LMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "M250 Titanium Gold Long Barrel", "type": "Barrel" },
+            { "name": "M250 75-Round Belt", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "QBZ95-1",
+          "name": "QBZ95-1",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "QBZ95-1 Longbow Barrel Combo", "type": "Barrel" },
+            { "name": "QBZ Cheek Pad", "type": "Cheek Pad" },
+            { "name": "95 Longbow Platform Kit", "type": "Handguard" },
+            { "name": "5.8 Newtype 60-Round Drum Mag", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "Marlin Lever-action Rifle",
+          "name": "Marlin Lever-action Rifle",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Collapsible Bipod Grip", "type": "Foregrip" },
+            { "name": "Marlin Hunter Barrel", "type": "Barrel" },
+            { "name": "Honeycomb Killflash", "type": "Killflash" },
+            { "name": "M3 Sniper Scope", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Marlin Stable Sniper Stock", "type": "Stock" },
+            { "name": "KC Hound Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "AKS-74",
+          "name": "AKS-74",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Angled Hand Stop", "type": "Foregrip" },
+            { "name": "Stable Grip Base", "type": "Grip Mount" },
+            { "name": "AKS-74 Lower Rail Handguard", "type": "Handguard" },
+            { "name": "AKS 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AK Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "PT1 Spec Ops Stock", "type": "Stock" },
+            { "name": "AKS-74 Upper Rail Handguard", "type": "Upper Handguard" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "Vector",
+          "name": "Vector",
+          "type": "SMG",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": "Vector Longsword Ultra-Long Barrel", "type": "Barrel" },
+            { "name": "Vector 40-Round Extended Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Bastion Horizontal Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M7",
+          "name": "M7",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "M7 Tidal Ultra-Long Barrel Combo", "type": "Barrel" },
+            { "name": "M7 6.8 45-Round Drum Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "P90",
+          "name": "P90",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Competition Hand Stop", "type": "Foregrip" },
+            { "name": "P90 Heavy Assault Long Barrel", "type": "Barrel" },
+            { "name": "Universal Cheek Pad", "type": "Cheek Pad" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "PEQ-2 Red Laser-Light Combo", "type": "Right Rail" },
+            { "name": "P90 Stock Pad", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "AUG",
+          "name": "AUG",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Angled Hand Stop", "type": "Foregrip" },
+            { "name": "AUG Elite Bipod Long Barrel", "type": "Barrel" },
+            { "name": "Universal Cheek Pad", "type": "Cheek Pad" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "AUG Stock Pad", "type": "Stock" },
+            { "name": "KC Hound Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "S12K",
+          "name": "S12K",
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "Competition Hand Stop", "type": "Foregrip" },
+            { "name": "S12K Practical Short Barrel Combo", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "S12K 24-Round Extended Mag", "type": "Mag" },
+            { "name": "Shotgun Practical Choke", "type": "Muzzle" },
+            { "name": "AK Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "AK Bolt Cover", "type": "Stock" },
+            { "name": "Hornet Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "KC17",
+          "name": "KC17",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "KC17 Longsword Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "AKS-74 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Core Rail Stock", "type": "Stock" },
+            { "name": "DD Python Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "MP5",
+          "name": "MP5",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Resonant Ergonomic Grip", "type": "Foregrip" },
+            { "name": "MP5 Tactical Barrel Combo", "type": "Barrel" },
+            { "name": "MP5 50-Round Drum Mag", "type": "Mag" },
+            { "name": "Bastion Horizontal Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "PKM",
+          "name": "PKM",
+          "type": "LMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "PKM Horizon Heavy Barrel", "type": "Barrel" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AK Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "LA-3C Green Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "QJB201",
+          "name": "QJB201",
+          "type": "LMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "QJB201 Newtype Sledgehammer Tactical Barrel", "type": "Barrel" },
+            { "name": "QJB201 Newtype Stable Gas Block", "type": "Gas Block" },
+            { "name": "5.8 Newtype 60-Round Drum Mag", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Newtype Vanguard Light Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Lightning Rail Stock", "type": "Stock" },
+            { "name": "DD Python Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "PSG-1",
+          "name": "PSG-1",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": "G3 Guard Standard Barrel Combo", "type": "Barrel" },
+            { "name": "G3 30-Round Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "G3 Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "PSG-1 Precision Trigger", "type": "Trigger" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M870",
+          "name": "M870",
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "Mini Hand Stop", "type": "Foregrip" },
+            { "name": "M870 Extended Barrel", "type": "Barrel" },
+            { "name": "M870 Rail Handguard", "type": "Handguard" },
+            { "name": "Shotgun Speedloader", "type": "Mag" },
+            { "name": "Shotgun Practical Choke", "type": "Muzzle" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Shadow Buffer Tube Stock", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "Mini-14",
+          "name": "Mini-14",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Angled Hand Stop", "type": "Foregrip" },
+            { "name": "Mini-14 Enhanced Barrel", "type": "Barrel" },
+            { "name": "Mini-14 Adv. Frame System", "type": "Handguard" },
+            { "name": "Mini-14 30-Round Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Shadow Buffer Tube Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "CAR-15",
+          "name": "CAR-15",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "AR Gabriel Long Barrel Combo", "type": "Barrel" },
+            { "name": "Stable Grip Base", "type": "Grip Mount" },
+            { "name": "M4 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "93R",
+          "name": "93R",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "93R Tactical Barrel", "type": "Barrel" },
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "93R 24-Round Mag", "type": "Mag" },
+            { "name": "Practical Pistol Flash Hider", "type": "Muzzle" },
+            { "name": "Combat Red Dot Sight", "type": "Optic" },
+            { "name": "M9 Carneose Stable Rear Grip", "type": "Rear Grip" }
+          ]
+        },
+        {
+          "id": "725 Double-Barrel Shotgun",
+          "name": "725 Double-Barrel Shotgun",
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "Competition Hand Stop", "type": "Foregrip" },
+            { "name": "725 Double-Barrel Shotgun Falcon Long Barrel", "type": "Barrel" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "725 Double-Barrel Shotgun Governor Short Stock", "type": "Stock" },
+            { "name": "Hornet Handguard Panel", "type": "Upper Patch" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "weapons": [
+        {
+          "id": "G17",
+          "name": "G17",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "G17 Tactical Heavy Barrel", "type": "Barrel" },
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "G-Series Pistol 25-Round Mag", "type": "Mag" },
+            { "name": "Elite Pistol Muzzle Brake", "type": "Muzzle" },
+            { "name": "Mini Red Dot Sight", "type": "Optic" }
+          ]
+        },
+        {
+          "id": "SR-25",
+          "name": "SR-25",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": "SR-25 Zephyr Long Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "SR-25 Elite Handguard", "type": "Handguard" },
+            { "name": "SR-25 30-Round Extended Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" },
+            { "name": "Ranger Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "G3",
+          "name": "G3",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "G3 Enhanced Long Barrel Combo", "type": "Barrel" },
+            { "name": "G3 30-Round Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "G3 Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M700",
+          "name": "M700",
+          "type": "Sniper Rifle",
+          "attachments": [
+            { "name": "Angled Hand Stop", "type": "Foregrip" },
+            { "name": "M700 Stratosphere Long Barrel", "type": "Barrel" },
+            { "name": "M700 Adv. Frame System", "type": "Handguard" },
+            { "name": "Resonant Sniper Rifle Suppressor", "type": "Muzzle" },
+            { "name": "ACOG Precision 6x Scope", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M249",
+          "name": "M249",
+          "type": "LMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "M249 Rhino Long Barrel", "type": "Barrel" },
+            { "name": "M249 Rail Handguard", "type": "Handguard" },
+            { "name": "M4 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "PEQ-2 Red Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "M1911",
+          "name": "M1911",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "M1911 Nighthawk Tactical Barrel", "type": "Barrel" },
+            { "name": "M1911 Nighthawk Tactical Hammer", "type": "Hammer" },
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "M1911 11-Round Extended Mag", "type": "Mag" },
+            { "name": "Practical Pistol Flash Hider", "type": "Muzzle" },
+            { "name": "Mini Red Dot Sight", "type": "Optic" },
+            { "name": "M1911 Nighthawk Tactical Rear Grip", "type": "Rear Grip" },
+            { "name": "M1911 Nighthawk Tactical Trigger", "type": "Trigger" }
+          ]
+        },
+        {
+          "id": "VSS",
+          "name": "VSS",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "VSS Tsunami Long Barrel Combo", "type": "Barrel" },
+            { "name": "VSS 30-Round Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "VSS Elite Integral Stock", "type": "Stock" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "SCAR-H",
+          "name": "SCAR-H",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Angled Hand Stop", "type": "Foregrip" },
+            { "name": "SCAR-H Beaver Long Barrel", "type": "Barrel" },
+            { "name": "SCAR-H 50-Round Drum Mag", "type": "Mag" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "416 Stable Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "Vityaz",
+          "name": "Vityaz",
+          "type": "SMG",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "Vityaz Beaver Barrel", "type": "Barrel" },
+            { "name": "Vityaz 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "OSIGHT Red Dot", "type": "Optic" },
+            { "name": "AK Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "PERST-7 Blue Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "M14",
+          "name": "M14",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "M14 Insight Ultra-Long Barrel", "type": "Barrel" },
+            { "name": "M14 30-Round Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Shadow Buffer Tube Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" },
+            { "name": "M14 Adv. Frame System", "type": "Handguard Kit" }
+          ]
+        },
+        {
+          "id": "Desert Eagle",
+          "name": "Desert Eagle",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "Desert Eagle Competition Barrel", "type": "Barrel" },
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "Desert Eagle 13-Round Mag", "type": "Mag" },
+            { "name": "Practical Pistol Flash Hider", "type": "Muzzle" },
+            { "name": "OSIGHT Red Dot", "type": "Optic" },
+            { "name": "Desert Eagle Competition Rear Grip", "type": "Rear Grip" }
+          ]
+        },
+        {
+          "id": "SVD",
+          "name": "SVD",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Resonant MKII Foregrip", "type": "Foregrip" },
+            { "name": "SVD Practical Long Barrel", "type": "Barrel" },
+            { "name": "SVD Rail Handguard", "type": "Handguard" },
+            { "name": "SVD 20-Round Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "SVD Polymer Integral Stock", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "ASh-12",
+          "name": "ASh-12",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Resonant Ergonomic Grip", "type": "Foregrip" },
+            { "name": "ASh-12 Annihilator Precision Long Barrel", "type": "Barrel" },
+            { "name": "ASh-12 30-Round Extended Mag", "type": "Mag" },
+            { "name": "Titan Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "ASh-12 Skeleton Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M1014",
+          "name": "M1014",
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "Competition Hand Stop", "type": "Foregrip" },
+            { "name": "M1014 Breakpoint Barrel", "type": "Barrel" },
+            { "name": "M1014 Rail Handguard", "type": "Handguard" },
+            { "name": "Shotgun Speedloader", "type": "Mag" },
+            { "name": "Shotgun Practical Choke", "type": "Muzzle" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "1014 Collapsible Stock (Folded)", "type": "Stock" },
+            { "name": "Hornet Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "MK47 Assault Rifle",
+          "name": "MK47 Assault Rifle",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "MK47 Ember Barrel", "type": "Barrel" },
+            { "name": "MK47 30-Round Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Phantom Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Core Rail Stock", "type": "Stock" },
+            { "name": "Ranger Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "SKS",
+          "name": "SKS",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "SKS Instant Ultra-Long Barrel", "type": "Barrel" },
+            { "name": "Balanced Grip Base", "type": "Grip Mount" },
+            { "name": "AK762 30-Round Wooden Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AK Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" },
+            { "name": "SKS Advanced Handguard", "type": "Handguard Kit" }
+          ]
+        },
+        {
+          "id": "K416",
+          "name": "K416",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "X25U Angled Combat Grip", "type": "Foregrip" },
+            { "name": "K416 A8 Long Barrel Combo", "type": "Barrel" },
+            { "name": "Stable Grip Base", "type": "Grip Mount" },
+            { "name": "M4 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Invasion Core Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "MP7",
+          "name": "MP7",
+          "type": "SMG",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": "MP7 Enhanced Barrel Combo", "type": "Barrel" },
+            { "name": "MP7 40-Round Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Bastion Horizontal Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "MP7 Stable Rear Grip", "type": "Rear Grip" },
+            { "name": "PEQ-2 Red Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "DD Python Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "SR9",
+          "name": "SR9",
+          "type": "Marksman Rifle",
+          "attachments": [
+            { "name": "K1 Elite Bevel Foregrip", "type": "Foregrip" },
+            { "name": "G3 Platform Marksman Barrel Combo", "type": "Barrel" },
+            { "name": "G3 30-Round Mag", "type": "Mag" },
+            { "name": "Grizzly Full P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "XCOG Assault 3.5x Scope", "type": "Optic" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "PSG-1 Precision Trigger", "type": "Trigger" },
+            { "name": "DD Python Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "AK-12",
+          "name": "AK-12",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "AK-12 Elite Bipod Long Barrel", "type": "Barrel" },
+            { "name": "AKS 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Panoramic Red Dot Sight", "type": "Optic" },
+            { "name": "AK Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "UR Spec Ops Tactical Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "AS Val",
+          "name": "AS Val",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "VSS Tsunami Long Barrel Combo", "type": "Barrel" },
+            { "name": "Vss 45-Round Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "Scorpio Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "MRGS Skeleton Stock", "type": "Stock" },
+            { "name": "ZenitCo Charging Handle Cap", "type": "Charging Handle" }
+          ]
+        },
+        {
+          "id": "UZI",
+          "name": "UZI",
+          "type": "SMG",
+          "attachments": [
+            { "name": "X25U Angled Combat Grip", "type": "Foregrip" },
+            { "name": "UZI Assault Standard Barrel", "type": "Barrel" },
+            { "name": "UZI Rail Handguard", "type": "Handguard" },
+            { "name": "UZI 45-Round Mag", "type": "Mag" },
+            { "name": "Hornet SMG Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "PEQ-2 Red Laser-Light Combo", "type": "Right Rail" },
+            { "name": "416 Stable Stock", "type": "Stock" }
+          ]
+        },
+        {
+          "id": "QSZ-92G",
+          "name": "QSZ-92G",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "OLIGHT Baldr Pro R Multi-Function Flashlight", "type": "Left Rail" },
+            { "name": "SMG Echo Suppressor", "type": "Muzzle" },
+            { "name": "Mini Red Dot Sight", "type": "Optic" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "weapons": [
+        {
+          "id": "357 Revolver",
+          "name": ".357 Revolver",
+          "type": "Pistol",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": ".357 Revolver Zephyr Barrel", "type": "Barrel" },
+            { "name": "Practical Pistol Flash Hider", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": ".357 Revolver Zephyr Rear Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "357 Revolver Zephyr Stock", "type": "Stock" },
+            { "name": "Modular Handguard Panel", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "PTR-32",
+          "name": "PTR-32",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "Secret Order Bevel Foregrip", "type": "Foregrip" },
+            { "name": "G3 Enhanced Long Barrel Combo", "type": "Barrel" },
+            { "name": "AKM 40-Round Extended Mag", "type": "Mag" },
+            { "name": "Coyote Medium P. Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Cobra Accuracy Sight", "type": "Optic" },
+            { "name": "G3 Skeleton Foregrip", "type": "Rear Grip" },
+            { "name": "LA-3C Green Laser-Light Combo", "type": "Right Rail" },
+            { "name": "Skeleton Sniper Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "M16A4",
+          "name": "M16A4",
+          "type": "Rifle",
+          "attachments": [
+            { "name": "RK-0 Foregrip", "type": "Foregrip" },
+            { "name": "AR Gabriel Long Barrel Combo", "type": "Barrel" },
+            { "name": "Stable Grip Base", "type": "Grip Mount" },
+            { "name": "M4 45-Round Extended Mag", "type": "Mag" },
+            { "name": "Badger Small Mag Assist (Black)", "type": "Mag Mount" },
+            { "name": "Sandstorm Vertical Compensator", "type": "Muzzle" },
+            { "name": "Russian Accuracy 2x Scope", "type": "Optic" },
+            { "name": "AR Heavy Tower Grip", "type": "Rear Grip" },
+            { "name": "DBAL-X2 Purple Laser-Light Combo", "type": "Right Rail" },
+            { "name": "416 Light Stock", "type": "Stock" },
+            { "name": "Ranger Handguard", "type": "Upper Patch" }
+          ]
+        },
+        {
+          "id": "Compound Bow",
+          "name": "Compound Bow",
+          "type": "Special Weapon",
+          "attachments": [
+            { "name": "Compound Bow Heavy Limb", "type": "Bow Limb" },
+            { "name": "Compound Bow Smart Scope", "type": "Bow Sight" },
+            { "name": "Compound Bow Enhanced String", "type": "String" },
+            { "name": "Compound Bow Competition Arrow Rest", "type": "Arrow Rest" },
+            { "name": "Compound Bow Balanced Grip Piece", "type": "Grip Piece" },
+            { "name": "Compound Bow Stable Pro Stabilizer", "type": "Stabilizer" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "game": "Battlefield 6",
+  "tiers": [
+    {
+      "name": "META",
+      "weapons": [
+        {
+          "id": "kord-6p67",
+          "name": "KORD 6P67",
+          "rank": 1,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "OSA-7 1.00X", "type": "Optic" },
+            { "name": "SINGLE-PORT BRAKE", "type": "Muzzle" },
+            { "name": "415MM PROTOTYPE", "type": "Barrel" },
+            { "name": "5 MW RED", "type": "Right Accessory" },
+            { "name": "RIBBED VERTICAL", "type": "Underbarrel" },
+            { "name": "30 RND", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "pw5a3",
+          "name": "PW5A3",
+          "rank": 1,
+          "type": "SMG",
+          "attachments": [
+            { "name": "MINI FLEX 1.00X", "type": "Optic" },
+            { "name": "DOUBLE-PORT BRAKE", "type": "Muzzle" },
+            { "name": "245MM CUSTOM", "type": "Barrel" },
+            { "name": "30RND MAGAZINE", "type": "Magazine" },
+            { "name": "IMPROVED MAG CATCH", "type": "Rear Grip" },
+            { "name": "5 MW RED", "type": "Right Accessory" },
+            { "name": "ALLOY VERTICAL", "type": "Underbarrel" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "umg-40",
+          "name": "UMG-40",
+          "rank": 2,
+          "type": "SMG",
+          "attachments": [
+            { "name": "A-P2 1.75X", "type": "Optic" },
+            { "name": "FLASH HIDER", "type": "Muzzle" },
+            { "name": "200MM CUSTOM-H", "type": "Barrel" },
+            { "name": "5 MW RED", "type": "Right Accessory" },
+            { "name": "FOLDING STUBBY", "type": "Underbarrel" },
+            { "name": "30RND MAGAZINE", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "sor-556-mk2",
+          "name": "SOR-556 MK2",
+          "rank": 2,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "3VZR 1.75X", "type": "Optic" },
+            { "name": "SINGLE-PORT BRAKE", "type": "Muzzle" },
+            { "name": "18\" US-LB", "type": "Barrel" },
+            { "name": "ALLOY VERTICAL", "type": "Underbarrel" },
+            { "name": "40 RND", "type": "Magazine" },
+            { "name": "HOLLOW POINT", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "rpkm",
+          "name": "RPKM",
+          "rank": 3,
+          "type": "LMG",
+          "attachments": [
+            { "name": "A-P2 1.75X", "type": "Optic" },
+            { "name": "LONG SUPPRESSOR", "type": "Muzzle" },
+            { "name": "590MM FACTORY", "type": "Barrel" },
+            { "name": "FOLDING STUBBY", "type": "Underbarrel" },
+            { "name": "40RND MAGAZINE", "type": "Magazine" },
+            { "name": "SYNTHETIC TIP", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "sgx",
+          "name": "SGX",
+          "rank": 3,
+          "type": "SMG",
+          "attachments": [
+            { "name": "RO-S 1.25X", "type": "Optic" },
+            { "name": "COMPENSATED BRAKE", "type": "Muzzle" },
+            { "name": "8\" EXTENDED", "type": "Barrel" },
+            { "name": "STIPPLED STUBBY", "type": "Underbarrel" },
+            { "name": "36RND MAGAZINE", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "ak-205",
+          "name": "AK-205",
+          "rank": 4,
+          "type": "Carbine",
+          "attachments": [
+            { "name": "RO-M 1.75X", "type": "Optic" },
+            { "name": "LONG SUPPRESSOR", "type": "Muzzle" },
+            { "name": "314MM FACTORY", "type": "Barrel" },
+            { "name": "40RND MAGAZINE", "type": "Magazine" },
+            { "name": "SYNTHETIC TIP", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "l110",
+          "name": "L110",
+          "rank": 5,
+          "type": "LMG",
+          "attachments": [
+            { "name": "3VZR 1.75X", "type": "Optic" },
+            { "name": "LIGHTENED SUPPRESSOR", "type": "Muzzle" },
+            { "name": "349MM FLUTED", "type": "Barrel" },
+            { "name": "5 MW GREEN", "type": "Right Accessory" },
+            { "name": "FOLDING STUBBY", "type": "Underbarrel" },
+            { "name": "100RND BELT POUCH", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "m87a1",
+          "name": "M87A1",
+          "rank": 4,
+          "type": "Shotgun",
+          "attachments": [
+            { "name": "IRON SIGHTS", "type": "Optic" },
+            { "name": "CQB SUPPRESSOR", "type": "Muzzle" },
+            { "name": "20\" FACTORY", "type": "Barrel" },
+            { "name": "ADJUSTABLE ANGLED", "type": "Underbarrel" },
+            { "name": "7 SHELL TUBE", "type": "Magazine" },
+            { "name": "FLECHETTE", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "m2010-esr",
+          "name": "M2010 ESR",
+          "rank": 1,
+          "type": "Sniper",
+          "attachments": [
+            { "name": "S-VPS 6.00X", "type": "Optic" },
+            { "name": "26\" CARBON", "type": "Barrel" },
+            { "name": "ANTI-GLARE COATING", "type": "Optic Accessory" },
+            { "name": "RANGE FINDER", "type": "Left Accessory" },
+            { "name": "5RND MAGAZINE", "type": "Magazine" },
+            { "name": "DLC BOLT", "type": "Rear Grip" },
+            { "name": "MATCH GRADE", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "scw-10",
+          "name": "SCW-10",
+          "rank": 5,
+          "type": "SMG",
+          "attachments": [
+            { "name": "MINI FLEX 1.00X", "type": "Optic" },
+            { "name": "FLASH HIDER", "type": "Muzzle" },
+            { "name": "EXTENDED BARREL", "type": "Barrel" },
+            { "name": "5 MW RED", "type": "Top Accessory" },
+            { "name": "CLASSIC VERTICAL", "type": "Underbarrel" },
+            { "name": "15RND MAGAZINE", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
+        {
+          "id": "sl9",
+          "name": "SL9",
+          "rank": 6,
+          "type": "SMG",
+          "attachments": [
+            { "name": "A-P2 1.75X", "type": "Optic" },
+            { "name": "STANDARD SUPPRESSOR", "type": "Muzzle" },
+            { "name": "11\" EXTENTED", "type": "Barrel" },
+            { "name": "FACTORY ANGLED", "type": "Underbarrel" },
+            { "name": "30RND MAGAZINE", "type": "Magazine" },
+            { "name": "SYNTHETIC TIP", "type": "Ammunition" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A Tier",
+      "weapons": [
+        {
+          "id": "drs-iar",
+          "name": "DRS-IAR",
+          "rank": 6,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "RO-S 1.25X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "20 inch SDM-R" },
+            { "type": "Underbarrel", "name": "CLASSIC VERTICAL" },
+            { "type": "Magazine", "name": "36 RND" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "b36a4",
+          "name": "B36A4",
+          "rank": 7,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "A-P2 1.75X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "510MM DMR" },
+            { "type": "Underbarrel", "name": "CLASSIC VERTICAL" },
+            { "type": "Magazine", "name": "36 RND" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "l85a3",
+          "name": "L85A3",
+          "rank": 8,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "RO-M 1.75X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "646MM LSW" },
+            { "type": "Underbarrel", "name": "CANTED STUBBY" },
+            { "type": "Magazine", "name": "40 RND" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m4a1",
+          "name": "M4A1",
+          "rank": 9,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "3VZR 1.75X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "12.5 inch FLUTED" },
+            { "type": "Underbarrel", "name": "RIBBED STUBBY" },
+            { "type": "Magazine", "name": "36RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m433",
+          "name": "M433",
+          "rank": 10,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "RO-S 1.25X" },
+            { "type": "Muzzle", "name": "LINEAR COMP" },
+            { "type": "Barrel", "name": "18.9 inch PROTOTYPE" },
+            { "type": "Underbarrel", "name": "LOW-PROFILE STUBBY" },
+            { "type": "Magazine", "name": "36RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "nvo-228e",
+          "name": "NVO-228E",
+          "rank": 11,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "A-P2 1.75X" },
+            { "type": "Muzzle", "name": "LINEAR COMP" },
+            { "type": "Barrel", "name": "409MM FACTORY" },
+            { "type": "Underbarrel", "name": "LOW-PROFILE STUBBY" },
+            { "type": "Magazine", "name": "30RND MAGAZINE" },
+            { "type": "Ammunition", "name": "HOLLOW POINT" }
+          ]
+        },
+        {
+          "id": "qbz-192",
+          "name": "QBZ-192",
+          "rank": 12,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "A-P2 1.75X" },
+            { "type": "Muzzle", "name": "LINEAR COMP" },
+            { "type": "Barrel", "name": "14.5 inch COMMON" },
+            { "type": "Underbarrel", "name": "LOW-PROFILE STUBBY" },
+            { "type": "Magazine", "name": "36RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "ak4d",
+          "name": "AK4D",
+          "rank": 13,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "3VZR 1.75X" },
+            { "type": "Muzzle", "name": "FLASH HIDER" },
+            { "type": "Barrel", "name": "450MM FACTORY" },
+            { "type": "Right Accessory", "name": "5 MW RED" },
+            { "type": "Underbarrel", "name": "ALLOY VERTICAL" },
+            { "type": "Magazine", "name": "20 RND" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "pw7a2",
+          "name": "PW7A2",
+          "rank": 7,
+          "type": "SMG",
+          "attachments": [
+            { "type": "Optic", "name": "MINI FLEX 1.00X" },
+            { "type": "Muzzle", "name": "LIGHTENED SUPPRESSOR" },
+            { "type": "Barrel", "name": "180MM PROTOTYPE" },
+            { "type": "Underbarrel", "name": "ALLOY VERTICAL" },
+            { "type": "Magazine", "name": "40RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m417-a2",
+          "name": "M417 A2",
+          "rank": 14,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "3VZR 1.75X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "16.5 inch RIFLE" },
+            { "type": "Underbarrel", "name": "RIBBED STUBBY" },
+            { "type": "Magazine", "name": "25RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "psr",
+          "name": "PSR",
+          "rank": 2,
+          "type": "Sniper",
+          "attachments": [
+            { "type": "Barrel", "name": "27 inch MK22" },
+            { "type": "Underbarrel", "name": "LOW-PROFILE STUBBY" },
+            { "type": "Magazine", "name": "10RND MAGAZINE" },
+            { "type": "Rear Grip", "name": "DLC BOLT" },
+            { "type": "Ammunition", "name": "MATCH GRADE" }
+          ]
+        },
+        {
+          "id": "sg-553r",
+          "name": "SG-553R",
+          "rank": 15,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "BF-2M 2.50X" },
+            { "type": "Muzzle", "name": "LIGHTENED SUPPRESSOR" },
+            { "type": "Barrel", "name": "240MM FLUTED" },
+            { "type": "Underbarrel", "name": "RIBBED STUBBY" },
+            { "type": "Magazine", "name": "30RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "kv9",
+          "name": "KV9",
+          "rank": 8,
+          "type": "SMG",
+          "attachments": [
+            { "type": "Optic", "name": "OSA-7 1.00X" },
+            { "type": "Muzzle", "name": "STANDARD SUPPRESSOR" },
+            { "type": "Barrel", "name": "6.5 inch EXTENDED" },
+            { "type": "Underbarrel", "name": "ALLOY VERTICAL" },
+            { "type": "Magazine", "name": "17RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m60",
+          "name": "M60",
+          "rank": 16,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "RO-M 1.75X" },
+            { "type": "Muzzle", "name": "LONG SUPPRESSOR" },
+            { "type": "Barrel", "name": "22 inch E3 LONG" },
+            { "type": "Underbarrel", "name": "RIBBED STUBBY" },
+            { "type": "Magazine", "name": "50 RND" },
+            { "type": "Ammunition", "name": "HOLLOW POINT" }
+          ]
+        },
+        {
+          "id": "usg-90",
+          "name": "USG-90",
+          "rank": 9,
+          "type": "SMG",
+          "attachments": [
+            { "type": "Optic", "name": "A-P2 1.75X" },
+            { "type": "Muzzle", "name": "DOUBLE-PORT BRAKE" },
+            { "type": "Barrel", "name": "407MM CIV-S" },
+            { "type": "Left Accessory", "name": "5 MW GREEN" },
+            { "type": "Magazine", "name": "50 RND MAGAZINE" },
+            { "type": "Rear Grip", "name": "IMPROVED MAG CATCH" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m1014",
+          "name": "M1014",
+          "rank": 10,
+          "type": "Shotgun",
+          "attachments": [
+            { "type": "Optic", "name": "IRON SIGHTS" },
+            { "type": "Barrel", "name": "18.5 inch FACTORY" },
+            { "type": "Underbarrel", "name": "RIBBED STUBBY" },
+            { "type": "Ammunition", "name": "BUCKSHOT" },
+            { "type": "Right Accessory", "name": "5 MW RED" }
+          ]
+        },
+        {
+          "id": "m123k",
+          "name": "M123K",
+          "rank": 17,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "BF-2M 2.50X" },
+            { "type": "Muzzle", "name": "DOUBLE-PORT BRAKE" },
+            { "type": "Barrel", "name": "450MM STANDARD" },
+            { "type": "Optic Accessory", "name": "CANTED IRON SIGHTS" },
+            { "type": "Underbarrel", "name": "FOLDING STUBBY" },
+            { "type": "Ammunition", "name": "FMJ" },
+            { "type": "Right Accessory", "name": "5 MW RED" }
+          ]
+        },
+        {
+          "id": "kts100-mk8",
+          "name": "KTS100 MK8",
+          "rank": 18,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "3VZR 1.75X" },
+            { "type": "Muzzle", "name": "LONG SUPPRESSOR" },
+            { "type": "Barrel", "name": "508MM MK8" },
+            { "type": "Underbarrel", "name": "SLIM ANGLED" },
+            { "type": "Ammunition", "name": "SYNTHETIC TIP" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B Tier",
+      "weapons": [
+        {
+          "id": "tr-7",
+          "name": "TR-7",
+          "rank": 19,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "type": "Optic", "name": "OSA-7 1.00X" },
+            { "type": "Muzzle", "name": "DOUBLE-PORT BRAKE" },
+            { "type": "Barrel", "name": "20 inch LONG" },
+            { "type": "Top Accessory", "name": "5 MW RED" },
+            { "type": "Underbarrel", "name": "RIBBED VERTICAL" },
+            { "type": "Magazine", "name": "20 RND" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m277",
+          "name": "M277",
+          "rank": 20,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "RO-M 1.75X" },
+            { "type": "Muzzle", "name": "SINGLE-PORT BRAKE" },
+            { "type": "Barrel", "name": "16 inch CUSTOM" },
+            { "type": "Top Accessory", "name": "5 MW RED" },
+            { "type": "Underbarrel", "name": "6H64 VERTICAL" },
+            { "type": "Magazine", "name": "20 RND" },
+            { "type": "Rear Grip", "name": "IMPROVED MAG CATCH" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "grt-bc",
+          "name": "GRT-BC",
+          "rank": 21,
+          "type": "Carbine",
+          "attachments": [
+            { "type": "Optic", "name": "RO-S 1.25X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "10 inch FACTORY" },
+            { "type": "Underbarrel", "name": "CANTED STUBBY" },
+            { "type": "Magazine", "name": "36RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "svdm",
+          "name": "SVDM",
+          "rank": 22,
+          "type": "DMR",
+          "attachments": [
+            { "type": "Optic", "name": "BF-2M 2.50X" },
+            { "type": "Muzzle", "name": "LONG SUPPRESSOR" },
+            { "type": "Barrel", "name": "620MM CLASSIC" },
+            { "type": "Right Accessory", "name": "50 MW GREEN" },
+            { "type": "Underbarrel", "name": "ALLOY VERTICAL" },
+            { "type": "Magazine", "name": "10RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m240l",
+          "name": "M240L",
+          "rank": 23,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "RO-M 1.75X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "24 inch BRAVO" },
+            { "type": "Right Accessory", "name": "5 MW GREEN" },
+            { "type": "Underbarrel", "name": "FOLDING STUBBY" },
+            { "type": "Magazine", "name": "50RND LOOSE BELT" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "sv-98",
+          "name": "SV-98",
+          "rank": 3,
+          "type": "Sniper",
+          "attachments": [
+            { "type": "Optic", "name": "S-VPS 6.00X" },
+            { "type": "Muzzle", "name": "DOUBLE-PORT BRAKE" },
+            { "type": "Barrel", "name": "730MM 3LR" },
+            { "type": "Right Accessory", "name": "5 MW RED" },
+            { "type": "Magazine", "name": "10RND MAGAZINE" },
+            { "type": "Rear Grip", "name": "IMPROVED MAG CATCH" },
+            { "type": "Ammunition", "name": "MATCH GRADE" }
+          ]
+        },
+        {
+          "id": "m250",
+          "name": "M250",
+          "rank": 24,
+          "type": "LMG",
+          "attachments": [
+            { "type": "Optic", "name": "BF-2M 2.50X" },
+            { "type": "Muzzle", "name": "LIGHTENED SUPPRESSOR" },
+            { "type": "Barrel", "name": "406MM STANDARD" },
+            { "type": "Top Accessory", "name": "5 MW RED" },
+            { "type": "Underbarrel", "name": "FOLDING STUBBY" },
+            { "type": "Magazine", "name": "50RND BELT POUCH" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "lmr27",
+          "name": "LMR27",
+          "rank": 25,
+          "type": "DMR",
+          "attachments": [
+            { "type": "Optic", "name": "BAKER 3.00X" },
+            { "type": "Muzzle", "name": "FLASH HIDER" },
+            { "type": "Barrel", "name": "21.5 inch FACTORY" },
+            { "type": "Optic Accessory", "name": "CANTED IRON SIGHTS" },
+            { "type": "Magazine", "name": "10 FAST" },
+            { "type": "Rear Grip", "name": "IMPROVED MAG CATCH" },
+            { "type": "Right Accessory", "name": "5 MW RED" },
+            { "type": "Underbarrel", "name": "FACTORY ANGLED" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "m39-emr",
+          "name": "M39 EMR",
+          "rank": 26,
+          "type": "DMR",
+          "attachments": [
+            { "type": "Optic", "name": "ST PRISIM 5.00X" },
+            { "type": "Muzzle", "name": "COMPENSATED BRAKE" },
+            { "type": "Barrel", "name": "18 inch EBR" },
+            { "type": "Optic Accessory", "name": "CANTED REFLEX" },
+            { "type": "Underbarrel", "name": "STIPPLED STUBBY" },
+            { "type": "Magazine", "name": "20RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C Tier",
+      "weapons": [
+        {
+          "id": "svk-86",
+          "name": "SVK-8.6",
+          "rank": 27,
+          "type": "DMR",
+          "attachments": [
+            { "type": "Optic", "name": "ST PRISIM 5.00X" },
+            { "type": "Muzzle", "name": "LIGHTENED SUPPRESSOR" },
+            { "type": "Barrel", "name": "560MM CUT" },
+            { "type": "Underbarrel", "name": "STIPPLED STUBBY" },
+            { "type": "Magazine", "name": "10RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        },
+        {
+          "id": "p18",
+          "name": "P18",
+          "rank": 11,
+          "type": "Secondary",
+          "attachments": [
+            { "type": "Optic", "name": "MINI FLEX 1.00X" },
+            { "type": "Muzzle", "name": "STANDARD SUPPRESSOR" },
+            { "type": "Barrel", "name": "3.9 inch PENCIL" },
+            { "type": "Magazine", "name": "17RND MAGAZINE" },
+            { "type": "Ammunition", "name": "FMJ" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D Tier",
+      "weapons": [
+        {
+          "id": "185ks-k",
+          "name": "18.5KS-K",
+          "rank": 12,
+          "type": "Shotgun",
+          "attachments": []
+        },
+        {
+          "id": "es-57",
+          "name": "ES 5.7",
+          "rank": 13,
+          "type": "Secondary",
+          "attachments": []
+        },
+        {
+          "id": "m45a1",
+          "name": "M45A1",
+          "rank": 14,
+          "type": "Secondary",
+          "attachments": []
+        },
+        {
+          "id": "m44",
+          "name": "M44",
+          "rank": 15,
+          "type": "Secondary",
+          "attachments": []
+        }
+      ]
+    }
+  ]
+}
