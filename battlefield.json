@@ -4,7 +4,21 @@
     {
       "name": "META",
       "weapons": [
-        
+        {
+          "id": "kord-6p67",
+          "name": "KORD 6P67",
+          "rank": 1,
+          "type": "Assault Rifle",
+          "attachments": [
+            { "name": "OSA-7 1.00X", "type": "Optic" },
+            { "name": "SINGLE-PORT BRAKE", "type": "Muzzle" },
+            { "name": "415MM PROTOTYPE", "type": "Barrel" },
+            { "name": "5 MW RED", "type": "Right Accessory" },
+            { "name": "RIBBED VERTICAL", "type": "Underbarrel" },
+            { "name": "30 RND", "type": "Magazine" },
+            { "name": "FMJ", "type": "Ammunition" }
+          ]
+        },
         {
           "id": "pw5a3",
           "name": "PW5A3",
